@@ -1,6 +1,7 @@
 {
     "target": "arduinocli",
     "cmd": ["--verify", "$file"],
+    "shell": false,
 
     "selector": "source.arduino",
 
